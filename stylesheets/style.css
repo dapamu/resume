@@ -1,0 +1,16 @@
+div {
+      /*display: inline-block;*/
+      display: inline-flex;
+      align-items: center;
+    }
+    
+.summary{
+	width: 450px;
+}
+
+img {
+	float: left;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
